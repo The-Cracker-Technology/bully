@@ -1,3 +1,5 @@
+cd src
+
 make 
 
 rm -rf /opt/ANDRAX/bin/bully
